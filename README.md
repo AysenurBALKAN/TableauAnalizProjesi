@@ -1,6 +1,6 @@
 # Tableau Analiz Projesi
 
-Bu projede Power Bi Kullanılarak bir şirkete ait Ticaret verileri , ticarete yaptıkları ülke isimleri,yıl bilgisi kullanılarak analiz yapılmıştır.
+Bu projede Tableau kullanılarak bir şirkete ait Ticaret verileri , ticarete yaptıkları ülke isimleri,yıl bilgisi kullanılarak analiz yapılmıştır.
 
 ## Elde Edilen Veriler
 
