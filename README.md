@@ -8,4 +8,4 @@ Yıllara göre şirketin yaptığın ticaret ,hangi ülkelerle bu ticareti yapt�
 
 Çeşitli filterelerin yapılabildiği grafiklerle analiz desteklenmiştir.
 
-<img src="https://github.com/AysenurBALKAN/PowerBiSatisAnalizRaporu/blob/main/powerbiProject.PNG" width="100%" height="250px">
+<img src="https://github.com/AysenurBALKAN/TableauAnalizProjesi/blob/main/TableauProject.PNG" width="100%" height="250px">
